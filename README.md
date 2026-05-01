@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy **George Yaguana**  
 
 ## 🚀 Sobre Mí  
-- 🎓 Egresado de **Ingeniería en Ciencias Computacionales**  
-- 👨‍💻 Desarrollador de **aplicaciones web y móviles**, con experiencia en **Machine Learning** enfocado en **redes neuronales convolucionales (CNN)**.  
-- 🤖 Interesado en el desarrollo de **IA aplicada** y soluciones tecnológicas escalables.  
+- 🎓 Graduadode **Ingeniería en Ciencias Computacionales**  
+- 👨‍💻 Desarrollador de **aplicaciones web, moviles y despliegue**.
+-  **Machine Learning Enthusiast** enfocado en **vision por computadora**.  
 - 📫 **Contacto:** [sebyaguana@gmail.com](mailto:sebyaguana@gmail.com)  
 
 ## 🛠️ Tecnologías y Herramientas  
-- **Lenguajes:** JavaScript, TypeScript, Python  
+- **Lenguajes:** JavaScript, TypeScript, Python, Yaml  
 - **Frameworks & Librerías:** React, React Native, NestJS, Flask  
 - **Machine Learning:** PyTorch, scikit-learn, OpenCV  
 - **Bases de Datos:** PostgreSQL  
@@ -15,7 +15,9 @@
 
 ## 🌟 Proyectos Destacados  
 - 📍 [**Papilon Admin Web**](https://github.com/GeogeYaguana/Papilon) — Aplicación web para administrar el stock de productos , asignacion de puntos y recompensas.  
-- 🛒 [**Papilon Mobile**](https://github.com/GeogeYaguana/Papilon-Mobile) — Aplicacion movil para fidelizacion de clientes.  
+- 🛒 [**Papilon Mobile**](https://github.com/GeogeYaguana/Papilon-Mobile) — Aplicacion movil para fidelizacion de clientes.
+-  [**Airix**](https://github.com/GeogeYaguana/CacaoHealth) — Aplicación Movil para control fitosanitario de cacao mediante rover agricola y vision por computadora.
+-  [**Airix Tech**](https://github.com/GeogeYaguana/AIRIX) — Landing Page de portfolio Airix
 
 ## 📈 Estadísticas  
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=geogeyaguana&show_icons=true&theme=dark)  
